@@ -1,0 +1,81 @@
+
+.see_list_container
+{
+    height: 100%;
+    width: 24%;
+    /* background-color: chartreuse; */
+}
+
+.saw_list_container
+{
+    height: 100%;
+    width: 24%;
+    /* background-color: chocolate; */
+}
+
+.interaction2:hover
+{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.title2
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.poster_centering
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.poster2
+{
+    width: 70%;
+}
+
+.button_container2
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 4px;
+}
+
+.see_container2
+{
+    height: 100%;
+    width: 48%;
+    /* background-color: chocolate; */
+    border: 1px goldenrod;
+    border-style: groove;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: goldenrod;
+}
+
+.saw_container2
+{
+    height: 100%;
+    width: 48%;
+    /* background-color: darkorchid; */
+    border: 1px goldenrod;
+    border-style: groove;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: goldenrod;
+}
+
+.see_container2:hover
+{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.saw_container2:hover
+{
+    cursor: pointer;
+    opacity: 0.6;
+}

@@ -1,0 +1,78 @@
+
+.page_container
+{
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.aesthetic_container
+{
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 60%;
+    width: 100%;
+    background-color: goldenrod;
+    /* margin-top: -60px; */
+}
+
+.app_name
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.summary_container
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+}
+
+.summary
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 60%;
+    text-align: center;
+}
+
+.login_button_container
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 14%;
+    width: 100%;
+    /* background-color: blue; */
+    margin-top: 15px;
+}
+
+.button_frame
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 24%;
+    /* background-color: green; */
+    /* margin-top: 15px; */
+}
+
+.lbutton
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    /* margin-top: 15px; */
+}
+
+.lbutton:hover
+{
+    opacity: 0.86;
+    cursor: pointer;
+    border: 1px goldenrod;
+    border-style: inset;
+}

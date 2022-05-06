@@ -1,0 +1,61 @@
+
+.media_container
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.trailer_container
+{
+    width: 40%;
+    height: 65%;
+    /* background-color: chartreuse; */
+    margin-top: 30px;
+}
+
+.box_office_container
+{
+    width: 30%;
+    height: 110%;
+    /* background-color: chartreuse; */
+    flex-direction: column;
+    justify-content: center;
+    border: 1px goldenrod;
+    border-style: groove;
+    margin-top: -38px;
+}
+
+.out_now
+{
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    height: 15%;
+    width: 100%;
+    /* background-color: brown; */
+}
+
+.reviews
+{
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    height: 85%;
+    width: 100%;
+    /* background-color: rebeccapurple; */
+    overflow: scroll;
+}
+
+.review_container2
+{
+    flex-direction: column;
+    justify-content: center;
+    width: 98%;
+    /* background-color: antiquewhite; */
+}
+
+.rev_info_container2
+{
+    flex-direction: row;
+    justify-content: end;
+}

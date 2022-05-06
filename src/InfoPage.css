@@ -1,0 +1,130 @@
+
+.poster_and_title_container
+{
+    height: 100%;
+    width: 30%;
+    /* background-color: chartreuse; */
+}
+
+.details_container
+{
+    height: 100%;
+    width: 60%;
+    /* background-color: chocolate; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.title_container
+{
+    height: 10%;
+    width: 100%;
+    /* background-color: chocolate; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.poster_container
+{
+    height: 80%;
+    width: 100%;
+    /* background-color: crimson; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.tag_line_container
+{
+    height: 10%;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.info_type_container
+{
+    height: 100%;
+    width: 17%;
+    /* background-color: deeppink; */
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.detail_container
+{
+    height: 100%;
+    width: 83%;
+    /* background-color: crimson; */
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.detail_type
+{
+    height: 28%;
+    width: 100%;
+    /* background-color: goldenrod; */
+}
+
+.detail_type2
+{
+    height: 28%;
+    width: 100%;
+    /* background-color: teal; */
+}
+
+.detail_type3
+{
+    height: 8%;
+    width: 100%;
+    /* background-color: goldenrod; */
+}
+
+.detail_type4
+{
+    height: 8%;
+    width: 100%;
+    /* background-color: teal; */
+}
+
+.detail
+{
+    height: 28%;
+    width: 100%;
+    /* background-color: chartreuse; */
+}
+
+.detail2
+{
+    height: 28%;
+    width: 100%;
+    /* background-color: chocolate; */
+}
+
+.detail3
+{
+    height: 8%;
+    width: 100%;
+    /* background-color: chartreuse; */
+}
+
+.detail4
+{
+    height: 8%;
+    width: 100%;
+    /* background-color: chocolate; */
+}
+
+.detail5
+{
+    height: 28%;
+    width: 100%;
+    /* background-color: chartreuse; */
+    overflow: scroll;
+}
+
+.poster
+{
+    height: 100%;
+}

@@ -1,0 +1,55 @@
+.menu_container
+{
+    height: 100%;
+    width: 40px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 0px;
+}
+
+.menu_icon
+{
+    margin-top: -12.5px;
+    margin-left: -13.5px;
+    height: 240%;
+}
+
+button:hover,:focus,:active
+{
+    box-shadow: none !important;
+}
+
+.menu_container:focus
+{
+    background-color: goldenrod;
+}
+
+.menu_container:hover
+{
+    background-color: goldenrod;
+}
+
+.canvas_container
+{
+    width: 200px;
+}
+
+.nav-link
+{
+    color: black;
+}
+
+.nav-link:hover
+{
+    color: goldenrod;
+}
+
+.overflow_style
+{
+    overflow: hidden;
+    width: 150px;
+    /* background-color: red; */
+    height: 50px;
+    margin-left: -14px;
+    font-size: 20pt;
+}

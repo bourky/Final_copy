@@ -1,0 +1,168 @@
+
+.log_form2
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.form_container2
+{
+    height: 100%;
+    width: 28%;
+    /* background-color: aqua; */
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form_centering2
+{
+    height: 54%;
+    width: 100%;
+    /* background-color: grey; */
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.sform2
+{
+    height: 70%;
+    width: 70%;
+    /* background-color: forestgreen; */
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px goldenrod;
+    border-style: groove;
+}
+
+.form_label_container2
+{
+    height: 18%;
+    width: 100%;
+    /* background-color: fuchsia; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.username_label_container2
+{
+    height: 16%;
+    width: 100%;
+    /* background-color: chartreuse; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.username_field_container2
+{
+    height: 16%;
+    width: 100%;
+    /* background-color: chocolate; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.password_label_container2
+{
+    height: 16%;
+    width: 100%;
+    /* background-color: fuchsia; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.password_field_container2
+{
+    height: 16%;
+    width: 100%;
+    /* background-color: chartreuse; */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button_container2
+{
+    height: 18%;
+    width: 100%;
+    /* background-color: chocolate; */
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.username_field2
+{
+    height: 96%;
+    width: 96%;
+    border: 1px goldenrod;
+    border-style: groove;
+}
+
+.password_field2
+{
+    height: 96%;
+    width: 96%;
+    border: 1px goldenrod;
+    border-style: groove;
+}
+
+.iubutton2
+{
+    height: 96%;
+    width: 35%;
+    background-color: goldenrod;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px goldenrod;
+    border-style: groove;
+}
+
+.username_field2:hover
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.username_field2:active
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.username_field2:focus
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.password_field2:hover
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.password_field2:active
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.password_field2:focus
+{
+    border-style: inset;
+    outline: 0 !important;
+}
+
+.iubutton2:hover
+{
+    border-style: inset;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.response_container
+{
+    height: 10%;
+    width: 100%;
+    /* background-color: aqua; */
+    flex-direction: row;
+    justify-content: space-evenly;
+}

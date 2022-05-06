@@ -1,0 +1,60 @@
+
+.results
+{
+    /* background-color: aqua; */
+    flex-direction: row;
+    justify-content: center;
+    overflow: "scroll";
+}
+
+.interaction:hover
+{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.button_container
+{
+    height: 30px;
+    width: 60%;
+    /* background-color: chartreuse; */
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 4px;
+}
+
+.see_container
+{
+    height: 100%;
+    width: 48%;
+    /* background-color: chocolate; */
+    border: 1px goldenrod;
+    border-style: groove;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: goldenrod;
+}
+
+.saw_container
+{
+    height: 100%;
+    width: 48%;
+    /* background-color: darkorchid; */
+    border: 1px goldenrod;
+    border-style: groove;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: goldenrod;
+}
+
+.see_container:hover
+{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.saw_container:hover
+{
+    cursor: pointer;
+    opacity: 0.6;
+}

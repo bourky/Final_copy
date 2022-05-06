@@ -1,0 +1,108 @@
+
+.navigation_container
+{
+    height: 30px;
+    /* background-color: teal; */
+}
+
+.navbar
+{
+    height: 100%;
+    width: 100%;
+    background-color: goldenrod;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.nav_contents
+{
+    /* background-color: blueviolet; */
+    height: 100%;
+}
+
+.site_name_container
+{
+    /* background-color: aqua; */
+    height: 100%;
+}
+
+.site_name
+{
+    color: rgb(0, 0, 0) !important;
+    cursor: default;
+    margin-top: -19px;
+}
+
+.searchbar_container
+{
+    /* background-color: blue; */
+    width: 50%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.search
+{
+    /* background-color: chartreuse; */
+    width: 60%;
+    height: 100%;
+}
+
+.button
+{
+    background-color: white;
+    width: 10%;
+    height: 100%;
+    margin-right: 130px;
+    border: 1px gray;
+    border-style: groove;
+    border-radius: 2px;
+    justify-content: center;
+}
+
+.button:hover
+{
+    border-color: black;
+    cursor: pointer;
+}
+
+.searchbar,.searchbutton
+{
+    width: 100%;
+    outline: none;
+}
+
+.search_icon
+{
+    height: 100%;
+}
+
+.login_container
+{
+    /* background-color: burlywood; */
+    height: 100%;
+    width: 10%;
+}
+
+.sign_out_button
+{
+    height: 100%;
+    width: 96%;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px goldenrod;
+    border-style: groove;
+}
+
+.sign_out_button:hover
+{
+    border-style: inset;
+    cursor: pointer;
+}
+
+.menu_z_index
+{
+    z-index: 1;
+}
